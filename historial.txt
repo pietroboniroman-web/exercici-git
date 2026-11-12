@@ -1,0 +1,4 @@
+* 74811f7 AFEGIR historial
+| * a319259 Afegir contacte
+|/  
+* a2d3932 Primer commit
